@@ -1,0 +1,10 @@
+ai 生成圖形
+https://www.bing.com/images/create?FORM=GENILP
+
+
+# 
+
+case [select_p]
+when '市場類別' THEN [市場類別1]
+when '產業類別' THEN [產業類別1]
+END
