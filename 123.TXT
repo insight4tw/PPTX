@@ -12,3 +12,6 @@ END
 
 # 問題討論
 learnviz@hotmail.com 
+
+# Tableu Public : 
+https://public.tableau.com/app/profile/rex.viz
